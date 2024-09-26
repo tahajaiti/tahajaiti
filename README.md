@@ -1,5 +1,5 @@
 <h1 align="center">TAHA JAITI</h1>
-<h3 align="center">An aspiring developper from Morocco</h3>
+<h3 align="center">An aspiring developper from Morocco 🇲🇦 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahajaiti&label=Profile%20views&color=fc38ff&style=plastic" alt="tahajaiti" /> </p>
 
@@ -16,7 +16,7 @@ Hello! I’m a 20-year-old developer passionate about coding and eager to enhanc
     -Fast learner with a quick mind
     -Strong problem-solving abilities
 * ⚽Goals
-  + My main goal is to gain a deeper understanding of programming concepts and best practices, especially in C, C++, and C#. I aim to develop robust applications and      contribute to exciting projects in the future.
+  + My main goal is to gain a deeper understanding of programming concepts and best practices, especially in C, C++, and C#. I aim to develop robust applications and contribute to exciting projects in the future.
 
 + 📫 How to reach me **taha.jaiti@gmail.com**
 
