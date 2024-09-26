@@ -1,15 +1,24 @@
-<h1 align="center">Hello ✌, My name is Taha</h1>
-<h3 align="center">A 20 year-old aspiring developper from Morocco</h3>
+<h1 align="center">TAHA JAITI</h1>
+<h3 align="center">An aspiring developper from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahajaiti&label=Profile%20views&color=fc38ff&style=plastic" alt="tahajaiti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahajaiti" alt="tahajaiti" /></a> </p>
 
-- 🌱 I’m currently learning **C**
+* ✌About Me:
+Hello! I’m a 20-year-old developer passionate about coding and eager to enhance my skills. I'm currently applying to YouCode, a coding school that I believe will help me take my programming abilities to the next level.
 
-- 📫 How to reach me **taha.jaiti@gmail.com**
+* 📚Skills
+  + 📕Languages:
+    - Currently learning: C
+    - Aspiring to master: C++, C#
+  + 📗Attributes:
+    -Fast learner with a quick mind
+    -Strong problem-solving abilities
+* ⚽Goals
+  + My main goal is to gain a deeper understanding of programming concepts and best practices, especially in C, C++, and C#. I aim to develop robust applications and      contribute to exciting projects in the future.
 
-- 📄 Know about my experiences [Right now I am planning to join YouCode](Right now I am planning to join YouCode)
++ 📫 How to reach me **taha.jaiti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
