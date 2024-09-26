@@ -1,5 +1,5 @@
 <h1 align="center">TAHA JAITI</h1>
-<h3 align="center">An aspiring developper from Morocco 🇲🇦 </h3>
+<h3 align="center">An aspiring developper from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahajaiti&label=Profile%20views&color=fc38ff&style=plastic" alt="tahajaiti" /> </p>
 
