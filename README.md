@@ -10,8 +10,10 @@ Hello! I’m a 20-year-old developer passionate about coding and eager to enhanc
 
 * 📚Skills
   - 📕Languages:
-    + Currently learning: C
+    + Currently learning: HTML, CSS
     + Aspiring to master: C++, C#
+    + Intermediate in: C, HTML
+    + Beginner in: CSS
   - 📗Attributes:
     + Fast learner with a quick mind
     + Strong problem-solving abilities
