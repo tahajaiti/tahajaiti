@@ -9,6 +9,7 @@
 ###
 
 <p align="center">taha.jaiti@gmail.com</p>
+<a href="https://tahajaiti.vercel.app/" tagret="_blank" align="center">Portfolio/</p>
 
 ###
 
